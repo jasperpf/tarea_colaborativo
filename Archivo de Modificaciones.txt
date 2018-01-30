@@ -1,2 +1,8 @@
 Este archivo será para emular modificaciones en el proyecto colaborativo.
-Jasper_Ricar_Prieto
+Jasper_Ricart_Prieto
+Karla_Alejandra_Pérez
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/karlaapl/tarea_colaborativo
+https://github.com/jasperpf/tarea_colaborativo
